@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*
+* Theme Name: Tangram  
+* File name: turquoise.css
+* Theme URL: tangram.mordorthemes.com
+* Description: Tangram - One page html/css website template
+* Author: Mordorthemes
+* Author URL: http://www.mordorthemes.com
+* Support: support@mordorthemes.com
+* Version: 1.0
+*/
+
+
+
+span.border, .submit-button, .icon-counter, .icon-service i, #toTop, .owl-theme .owl-controls .owl-buttons div, .portfolio-hover a, .button-map, .price-name, .portfolio-filter li.active a, .price-button a:hover, .tp-bannertimer
+	{background:#2f7292;}
+	
+	
+	
+	
+.nbr, .red, ul.social-team li a:link, ul.social-team a:visited, .team-item i, .process h3 span, .portfolio-item:hover  h2, ul.contact-detail li a:link, ul.contact-detail a:visited, .flexnav li a:hover, .flexnav li.current a, .menu-button .touch-button .navicon, .mfp-arrow,.mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close,.mfp-title, h1.slogan, .team-hover a:link, .team-hover a:visited, .team-hover a:hover, ul.project-detail li strong, h1.slogan a:hover
+	{color:#2f7292;}
+	
+	
+	
+	
+	
+p.bordered{
+	border-left:2px solid #2f7292;	
+}
+
+
+
+.process:hover .process-hover, .tp-caption.medium_bg_asbestos
+	{background:rgba(47,114,146,1);}
+
+
+
+
+.icon-counter:after {
+    border-left: 11px solid #2f7292;
+}

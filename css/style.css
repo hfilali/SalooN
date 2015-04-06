@@ -1,0 +1,21 @@
+/*
+* Theme Name: Tangram
+* File name: style.css
+* Theme URL: 
+* Description: Tangram - One page html/css website template
+* Author: Mordorthemes
+* Author URL: http://www.mordorthemes.com
+* Support: support@mordorthemes.com
+* Version: 1.0
+*/
+
+@import url("normalize.css");
+@import url("foundation.css"); 
+@import url("responsive-nav.css");
+@import url("font-awesome.css");
+@import url("revolution.css");
+@import url("flexnav.css");
+@import url("magnific-popup.css");
+@import url("YTPlayer.css");
+@import url("layout.css");
+
