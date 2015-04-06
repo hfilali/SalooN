@@ -201,7 +201,7 @@ h1.text-slide{
 h2.text-slide{
 	font-family: 'Roboto Slab', sans-serif;
 	font-weight:300;
-	font-size: 30px ;
+	font-size: 40px ;
 	color:#fff;	
 }
 .tp-banner .overlay{
@@ -555,19 +555,19 @@ img.testimonial-img {
 
 /* Section parallax backgrounds */
 .team-parallax{
-	background:url("../img/overlay-pattern.png") repeat top left ,url(../img/slider/trees.jpg) repeat-y  fixed 50% center rgba(0, 0, 0, 0);
+	background:url("../img/overlay-pattern.png") repeat top left ,url(../img/slider/saloonbg1.jpg) repeat-y  fixed 50% center rgba(0, 0, 0, 0);
 }
 .team-parallax h2{
 	color:#fff;
 }
 .box-parallax{
-	background:url("../img/overlay-pattern.png") repeat top left ,url(../img/slider/forest.jpg) repeat-y  fixed 50% center rgba(0, 0, 0, 0);	
+	background:url("../img/overlay-pattern.png") repeat top left ,url(../img/slider/networking.jpg) repeat-y  fixed 50% center rgba(0, 0, 0, 0);	
 }
 .works-parallax{
-	background:url("../img/overlay-pattern.png") repeat top left ,url(../img/slider/clouds.jpg) repeat-y  fixed 50% center rgba(0, 0, 0, 0);	
+	background:url("../img/overlay-pattern.png") repeat top left ,url(../img/slider/networking2.jpg) repeat-y  fixed 50% center rgba(0, 0, 0, 0);	
 }
 .responsive-parallax{
-	background:url("../img/overlay-pattern.png") repeat top left ,url(../img/slider/falls.jpg) repeat-y  fixed 50% center rgba(0, 0, 0, 0);
+	background:url("../img/overlay-pattern.png") repeat top left ,url(../img/slider/saloonbg1.jpg) repeat-y  fixed 50% center rgba(0, 0, 0, 0);
 	padding:0px;	
 }
 
