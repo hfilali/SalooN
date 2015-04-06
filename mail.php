@@ -12,7 +12,7 @@
       }
       
       //send email
-      mail( "email@website.com", "Contact Form: ".$_POST['name'], $_POST['text'], "From:" . $_POST['email'] );
+      mail( "getsaloon@gmail.com", "Contact Form: ".$_POST['name'], $_POST['text'], "From:" . $_POST['email'] );
       
     }
     ?>
